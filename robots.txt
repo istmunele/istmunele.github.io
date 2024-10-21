@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://istmunele.github.io/istmunele.txt.gz
+Sitemap: https://istmunele.github.io/app/istmunele.txt.gz
+Sitemap: https://istmunele.github.io/assets/istmunele.txt.gz
+Sitemap: https://istmunele.github.io/css/istmunele.txt.gz
+Sitemap: https://istmunele.github.io/includes/istmunele.txt.gz
+Sitemap: https://istmunele.github.io/item/istmunele.txt.gz
+Sitemap: https://istmunele.github.io/src/istmunele.txt.gz
